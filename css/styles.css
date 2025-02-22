@@ -87,7 +87,8 @@ h6 {
     font-size: 12px;
     line-height: 125%;
     color: #a8a8a8;
-    margin: 0;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .list-duty {
@@ -95,6 +96,8 @@ h6 {
     font-size: 16px;
     line-height: 171%;
     color: #595959;
+    margin-top: 0;
+    margin-bottom: 12px;
 }
 
 .consent-container {

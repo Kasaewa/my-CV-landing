@@ -117,38 +117,39 @@ h6 {
 
 aside {
     background: #e0ebfe;
+    box-sizing: border-box;
     padding-top: 40px;
+    width: 370px;
 }
 
-.contacts {
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+.side-box {
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.contacts-type {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 171%;
+    color: #161d2a;
+    margin-right: 8px;
+}
+.side-text {
     font-weight: 400;
     font-size: 14px;
     line-height: 171%;
     color: #161d2a;
+    padding-left: 16px;
 }
 
-.tech-skills {
-    margin-left: 40px;
-    margin-right: 40px;
+.side-box-item {
     margin-top: 0;
     margin-bottom: 40px;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 171%;
-    color: #161d2a;
 }
 
-.soft-skills{
-    margin-left: 40px;
-    margin-right: 40px;
+.contact-item {
     margin-top: 0;
-    margin-bottom: 40px;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 171%;
-    color: #161d2a;
+    margin-bottom: 4px;
 }

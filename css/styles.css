@@ -10,6 +10,7 @@ body {
     background: #ffffff;
     display: flex;
     flex-direction: row-reverse;
+    margin: 0 auto;
 }
 
 .main-container {
@@ -80,6 +81,22 @@ h6 {
     font-size: 14px;
     line-height: 200%;
     color: #000;
+    padding-left: 16px;
+}
+
+.my-links {
+    color: black;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    text-decoration-line: underline;
+}
+
+.tech-item {
+    color: black;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
 }
 
 .place {
@@ -92,6 +109,7 @@ h6 {
 }
 
 .list-duty {
+    padding-left: 16px;
     font-weight: 400;
     font-size: 16px;
     line-height: 171%;
